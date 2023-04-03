@@ -1,0 +1,127 @@
+{
+  "app": {
+    "bundleName": "com.example.myapplication",
+    "vendor": "example",
+    "version": {
+      "code": 1000000,
+      "name": "1.0.0"
+    }
+  },
+  "deviceConfig": {},
+  "module": {
+    "package": "com.example.myapplication",
+    "name": ".MyApplication",
+    "mainAbility": "com.example.myapplication.MainAbility",
+    "deviceType": [
+      "phone"
+    ],
+    "distro": {
+      "deliveryWithInstall": true,
+      "moduleName": "entry",
+      "moduleType": "entry",
+      "installationFree": true
+    },
+    "abilities": [
+      {
+        "skills": [
+          {
+            "entities": [
+              "entity.system.home"
+            ],
+            "actions": [
+              "action.system.home"
+            ]
+          }
+        ],
+        "orientation": "unspecified",
+        "name": "com.example.myapplication.MainAbility",
+        "icon": "$media:icon",
+        "description": "$string:mainability_description",
+        "label": "$string:entry_MainAbility",
+        "type": "page",
+        "launchType": "standard"
+      },
+      {
+        "orientation": "unspecified",
+        "name": "com.example.myapplication.MainAbility2",
+        "icon": "$media:icon",
+        "description": "$string:mainability2_description",
+        "label": "$string:entry_MainAbility2",
+        "type": "page",
+        "launchType": "standard"
+      },
+      {
+        "orientation": "unspecified",
+        "name": "com.example.myapplication.course1",
+        "icon": "$media:icon",
+        "description": "$string:course1_description",
+        "label": "$string:entry_course1",
+        "type": "page",
+        "launchType": "standard"
+      },
+      {
+        "orientation": "unspecified",
+        "name": "com.example.myapplication.demo",
+        "icon": "$media:icon",
+        "description": "$string:demo_description",
+        "label": "$string:entry_demo",
+        "type": "page",
+        "launchType": "standard"
+      },
+      {
+        "orientation": "unspecified",
+        "name": "com.example.myapplication.course2",
+        "icon": "$media:icon",
+        "description": "$string:course2_description",
+        "label": "$string:entry_course2",
+        "type": "page",
+        "launchType": "standard"
+      },
+      {
+        "orientation": "unspecified",
+        "name": "com.example.myapplication.course4",
+        "icon": "$media:icon",
+        "description": "$string:course4_description",
+        "label": "$string:entry_course4",
+        "type": "page",
+        "launchType": "standard"
+      },
+      {
+        "orientation": "unspecified",
+        "name": "com.example.myapplication.course3",
+        "icon": "$media:icon",
+        "description": "$string:course3_description",
+        "label": "$string:entry_course3",
+        "type": "page",
+        "launchType": "standard"
+      },
+      {
+        "orientation": "unspecified",
+        "name": "com.example.myapplication.MainAbility_w",
+        "icon": "$media:icon",
+        "description": "$string:mainability_w_description",
+        "label": "$string:entry_MainAbility_w",
+        "type": "page",
+        "launchType": "standard"
+      },
+      {
+        "orientation": "unspecified",
+        "name": "com.example.myapplication.MainAbility2_2",
+        "icon": "$media:icon",
+        "description": "$string:mainability2_2_description",
+        "label": "$string:entry_MainAbility2_2",
+        "type": "page",
+        "launchType": "standard"
+      },
+      {
+        "orientation": "unspecified",
+        "name": "com.example.myapplication.MainAbility2_1",
+        "icon": "$media:icon",
+        "description": "$string:mainability2_1_description",
+        "label": "$string:entry_MainAbility2_1",
+        "type": "page",
+        "launchType": "standard"
+      }
+    ]
+  }
+}

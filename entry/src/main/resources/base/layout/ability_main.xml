@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DependentLayout
+    xmlns:ohos="http://schemas.huawei.com/res/ohos"
+    ohos:height="match_parent"
+    ohos:width="match_parent"
+    ohos:alignment="center"
+    ohos:orientation="vertical">
+
+    <Image
+        ohos:height="match_parent"
+        ohos:width="match_parent"
+        ohos:background_element="#0000FF"
+        ohos:scale_mode="stretch"
+        ohos:image_src="$media:fl"/>
+
+    <DirectionalLayout
+        ohos:height="match_parent"
+        ohos:width="match_parent"
+        ohos:orientation="vertical"
+        ohos:margin="20vp"
+        ohos:padding="20vp">
+        <Text
+            ohos:id="$+id:title"
+            ohos:height="match_content"
+            ohos:width="match_parent"
+            ohos:align_parent_top="true"
+            ohos:padding="50vp"
+            ohos:text="学生选课系统"
+            ohos:text_alignment="center"
+            ohos:text_color="black"
+            ohos:text_size="30vp"
+            />
+        <TextField
+            ohos:id="$+id:uname"
+            ohos:top_margin="50vp"
+            ohos:height="50vp"
+            ohos:width="300vp"
+            ohos:hint="请输入学号"
+            ohos:layout_alignment="horizontal_center"
+            ohos:text_alignment="center"
+            ohos:text_size="20vp"
+            ohos:background_element="#FF07F5C6">
+
+        </TextField>
+        <TextField
+            ohos:id="$+id:pwd"
+            ohos:height="50vp"
+            ohos:width="300vp"
+            ohos:hint="请输入密码"
+            ohos:layout_alignment="horizontal_center"
+            ohos:text_alignment="center"
+            ohos:text_size="20vp"
+            ohos:background_element="#FF07F5C6"
+            ohos:top_margin="10vp">
+
+        </TextField>
+        <Button
+            ohos:id="$+id:login"
+            ohos:height="50vp"
+            ohos:width="300vp"
+            ohos:text="登录"
+            ohos:text_alignment="center"
+            ohos:text_size="20vp"
+            ohos:background_element="#FF3872C8"
+            ohos:top_margin="50vp">
+
+        </Button>
+
+    </DirectionalLayout>
+</DependentLayout>
+

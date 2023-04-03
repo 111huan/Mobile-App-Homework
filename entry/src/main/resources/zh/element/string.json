@@ -1,0 +1,124 @@
+{
+  "string": [
+    {
+      "name": "entry_MainAbility",
+      "value": "entry_MainAbility"
+    },
+    {
+      "name": "mainability_description",
+      "value": "Java_Empty Ability"
+    },
+    {
+      "name": "mainability_HelloWorld",
+      "value": "你好，世界"
+    },
+    {
+      "name": "entry_MainAbility2",
+      "value": "entry_MainAbility2"
+    },
+    {
+      "name": "mainability2_description",
+      "value": "Java_Empty Ability"
+    },
+    {
+      "name": "mainability2_HelloWorld",
+      "value": "你好，世界"
+    },
+    {
+      "name": "entry_course1",
+      "value": "entry_course1"
+    },
+    {
+      "name": "course1_description",
+      "value": "Java_Empty Ability"
+    },
+    {
+      "name": "course1_HelloWorld",
+      "value": "你好，世界"
+    },
+    {
+      "name": "entry_demo",
+      "value": "entry_demo"
+    },
+    {
+      "name": "demo_description",
+      "value": "Java_Empty Ability"
+    },
+    {
+      "name": "demo_HelloWorld",
+      "value": "你好，世界"
+    },
+    {
+      "name": "entry_course2",
+      "value": "entry_course2"
+    },
+    {
+      "name": "course2_description",
+      "value": "Java_Empty Ability"
+    },
+    {
+      "name": "course2_HelloWorld",
+      "value": "你好，世界"
+    },
+    {
+      "name": "entry_course4",
+      "value": "entry_course4"
+    },
+    {
+      "name": "course4_description",
+      "value": "Java_Empty Ability"
+    },
+    {
+      "name": "course4_HelloWorld",
+      "value": "你好，世界"
+    },
+    {
+      "name": "entry_course3",
+      "value": "entry_course3"
+    },
+    {
+      "name": "course3_description",
+      "value": "Java_Empty Ability"
+    },
+    {
+      "name": "course3_HelloWorld",
+      "value": "你好，世界"
+    },
+    {
+      "name": "entry_MainAbility_w",
+      "value": "entry_MainAbility_w"
+    },
+    {
+      "name": "mainability_w_description",
+      "value": "Java_Empty Ability"
+    },
+    {
+      "name": "mainability_w_HelloWorld",
+      "value": "你好，世界"
+    },
+    {
+      "name": "entry_MainAbility2_2",
+      "value": "entry_MainAbility2_2"
+    },
+    {
+      "name": "mainability2_2_description",
+      "value": "Java_Empty Ability"
+    },
+    {
+      "name": "mainability2_2_HelloWorld",
+      "value": "你好，世界"
+    },
+    {
+      "name": "entry_MainAbility2_1",
+      "value": "entry_MainAbility2_1"
+    },
+    {
+      "name": "mainability2_1_description",
+      "value": "Java_Empty Ability"
+    },
+    {
+      "name": "mainability2_1_HelloWorld",
+      "value": "你好，世界"
+    }
+  ]
+}
